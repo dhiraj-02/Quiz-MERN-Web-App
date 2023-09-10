@@ -21,3 +21,7 @@ https://crackitapp.netlify.app/
 11. Make sure database connection is established to database after this in console
 12. n client terminal run command "nodemon index.js"
 13. You can create accounts, add quiz, take quiz Enjoyy!!
+
+
+https://github.com/dhiraj-02/Quiz-MERN-Web-App/assets/120095574/ff0b82bc-44ad-4af3-a688-91e5b0e762af
+
